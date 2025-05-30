@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Burhan077
 - 👀 I’m interested in Data Science, Machine Learning and AI
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Shell and C   
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am daily driving Arch Linux so I have to say it I use Arch btw
 
