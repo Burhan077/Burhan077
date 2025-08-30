@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Burhan  
+# Hello 
 
 Results-driven **SysAdmin & Developer** with hands-on experience in **Linux server administration, C++, Python, and Data Science**.  
 I specialize in **automation, data-driven solutions, and clean, testable code**.  
