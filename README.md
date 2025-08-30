@@ -22,6 +22,6 @@ Feel free to explore my repositories and reach out for collaboration! 😊
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [Shiny Dashboard](https://github.com/Burhan077/Capstone) | An interactive loan defaulting calculator | Python, Jupyter |
-| [Machine Learning](https://github.com/Burhan077/DataCleaning) | Automatic Data Cleaner | Streamlit |
+| [Capstone](https://github.com/Burhan077/Capstone) | An interactive loan defaulting calculator | Python, Jupyter |
+| [Data Cleaner](https://github.com/Burhan077/DataCleaning) | Automatic Data Cleaner | Streamlit |
 
