@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello! 
 
-<!--
-**Burhan077/Burhan077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate data analyst. Here's a quick look at what I do:
 
-Here are some ideas to get you started:
+- 🎓 **Background**: Proficient in **Python** for data analysis, visualization, and machine learning.
+- 📚 **Currently Learning**: Exploring **R**, **C++**, and **SQL**.
+- 💻 **Tech Skills**: Working knowledge of **HTML** & **CSS**.
+- 🌟 **Portfolio Highlights**: Building interactive dashboards, predictive models, and insightful data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories and reach out for collaboration! 😊
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan077&layout=compact&theme=red)
+
+---
+
+
+## 📂 Featured Projects
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| [Shiny Dashboard](https://github.com/Burhan077/Capstone) | An interactive loan defaulting calculator | Python, Jupyter |
+| [Machine Learning](https://github.com/Burhan077/DataCleaning) | Automatic Data Cleaner | Streamlit |
+
