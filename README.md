@@ -63,5 +63,5 @@ I specialize in **automation, data-driven solutions, and clean, testable code**.
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Burhan077/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/NovaNoodle7/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
