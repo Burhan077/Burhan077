@@ -63,5 +63,5 @@ I specialize in **automation, data-driven solutions, and clean, testable code**.
 ## Languages 
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/2b45a2e3c27f4d3bf7b45a04b0f915939347a396c2252a1db54bcf7a95e78151/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73616c696d616d6b266c61796f75743d636f6d70616374267468656d653d6c69676874" alt="Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burhan077&layout=compact&theme=lred" alt="Languages Used" />
 </p>
