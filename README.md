@@ -52,7 +52,7 @@ I specialize in **automation, data-driven solutions, and clean, testable code**.
 <details>
 <summary>⚙️ <strong>System Administration</strong></summary>
 
-- Linux server administration (Ubuntu, Debian, CentOS)  
+- Linux server administration (Ubuntu, Archlinux)  
 - Shell scripting for automation  
 - Deployment & monitoring  
 
