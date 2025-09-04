@@ -1,15 +1,7 @@
 # Hello  
 
-I'm a results-driven **SysAdmin & Developer** with hands-on experience in **Linux server administration, C++, Python, and Data Science**.  
-I specialize in **automation, data-driven solutions, and clean, testable code**.  
-
-<br>
-<br>  
-<div align="center">
-<a href="https://github.com/Burhan077?tab=achievements">
-<img src="https://github-profile-trophy.vercel.app/?username=Burhan077&theme=onestar&no-frame=true&column=6&row=1" width="96%" alt="Trophy stats"/>
-</a>
-</div>
+I'm a **SysAdmin & Data Analyst** with hands-on experience in **Linux server administration, C++, Python, and Data Science**.  
+I specialize in **automation, data-driven solutions, and clean code**.  
 
 ## Languages 
 
