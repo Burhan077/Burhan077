@@ -7,7 +7,7 @@ I specialize in **automation, data-driven solutions, and clean, testable code**.
 <br> 
 <div align="center">
 <a href="https://github.com/Burhan077?tab=achievements">
-<img src="https://github-profile-trophy.vercel.app/?username=linus&theme=onestar&no-frame=true&column=7&row=1" width="96%" alt="Trophy stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vim&theme=onestar&no-frame=true&column=7&row=1" width="96%" alt="Trophy stats"/>
 </a>
 </div>
 
