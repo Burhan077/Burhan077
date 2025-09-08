@@ -32,8 +32,8 @@ I specialize in **automation, data-driven solutions, and clean code**.
 <details>
 <summary>🖥️ <strong>Languages</strong></summary>
 
-- **Python**, **C++**, **Shell (sh/dash)**  
-- **Vimscript**, some **Lua**  
+- **Python**, **C++**, **Shell** and **Vimscript** 
+- Currently learning **Rust**  
 - Currently exploring **Java**  
 
 </details>
