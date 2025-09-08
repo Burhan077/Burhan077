@@ -16,7 +16,7 @@ I specialize in **automation, data-driven solutions, and clean code**.
 </a>
 </div>
 
-<div align="center">
+<div align="center"> 
 <a href="https://github.com/Burhan077?tab=repositories">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Burhan077&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="GitHub stats"/>
 </a>
