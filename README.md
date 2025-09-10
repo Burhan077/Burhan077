@@ -1,5 +1,5 @@
 # Hello   
-                
+                 
 I'm a **SysAdmin & Data Analyst** with hands-on experience in **Linux server administration, C++, Python, and Data Science**.  
 I specialize in **automation, data-driven solutions, and clean code**.  
 
