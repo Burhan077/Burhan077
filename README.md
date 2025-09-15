@@ -2,14 +2,13 @@
 
 I'm a **SysAdmin & Data Analyst** with hands-on experience in **Linux server administration, C++, Python, and Data Science**.  
 I specialize in **automation, data-driven solutions, and clean code**.   
-
 ## Languages          
 <div align="center">  
 <a href="https://github.com/Burhan077?tab=repositories">
-<img src="https://github-profile-trophy.vercel.app/?username=Burhan077&theme=onestar&no-frame=true&column=5&row=1" width="48%" alt="GitHub stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Burhan077&theme=onestar&no-frame=true&column=5&row=1" width="48%" height="200" alt="GitHub stats"/>
 </a>
 <a href="https://github.com/Burhan077">
-<img src="https://camo.githubusercontent.com/96faf5012842254d6aca885a147bb4c278fc704144cef227635ce51ebec5a8f9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42757268616e303737266c61796f75743d636f6d70616374267468656d653d6c726564" width="48%" alt="GitHub streak"/>
+<img src="https://camo.githubusercontent.com/96faf5012842254d6aca885a147bb4c278fc704144cef227635ce51ebec5a8f9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42757268616e303737266c61796f75743d636f6d70616374267468656d653d6c726564" width="48%" height="200" alt="GitHub streak"/>
 </a>
 </div>
 
