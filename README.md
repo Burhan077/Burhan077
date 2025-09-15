@@ -9,8 +9,6 @@ I specialize in **automation, data-driven solutions, and clean code**.
 </a>
 <a href="https://github.com/Burhan077?tab=repositories">
 <img src="https://github-profile-trophy.vercel.app/?username=Burhan077&theme=onestar&no-frame=true&column=4&row=1" width="671" alt="GitHub stats"/>
-</a>
-
 </div>
 
 
