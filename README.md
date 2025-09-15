@@ -11,7 +11,7 @@ I specialize in **automation, data-driven solutions, and clean code**.
 <br>
 <br>
 <div align="center">
-<a href="https://github.com/Burhan077?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Burhan077&theme=onestar&no-frame=true&column=4&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/Burhan077?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Burhan077&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 <br> 
