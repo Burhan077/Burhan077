@@ -15,7 +15,7 @@ I specialize in **automation, data-driven solutions, and clean code**.
 
 
 <br> 
-<div align="center">
+<div align="center"> 
 <a href="https://github.com/Burhan077">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Burhan077&theme=react-dark&hide_border=true&custom_title=Burhanudeen's%20Contribution%20Graph" width="96%" alt="Activity graph"/>
 </a>
