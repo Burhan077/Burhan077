@@ -12,6 +12,36 @@ I specialize in **automation, data-driven solutions, and clean code**.
 </a>
 </div>
 
+## Tech Stack  
+
+<details>
+<summary><strong>Languages</strong></summary>
+
+- **Python**, **C++**, **Shell** and **Vimscript** 
+- Currently learning **Rust**  
+- Currently exploring **Java**  
+
+</details>
+
+<details>
+<summary> <strong>Data Science</strong></summary>
+
+- **Libraries**: Pandas, Numpy, Seaborn, Matplotlib  
+- **Tools**: Jupyter, Streamlit  
+- **Skills**: Data cleaning, visualization, simple predictive models  
+
+</details>
+
+<details>
+<summary><strong>System Administration</strong></summary>
+
+- Linux server administration (Ubuntu, Archlinux)  
+- Shell scripting for automation  
+- Deployment & monitoring  
+
+</details>
+
+---
  <!--
 <br> 
 <div align="center"> 
